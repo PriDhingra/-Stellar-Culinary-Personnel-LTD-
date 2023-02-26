@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/-Stellar-Culinary-Personnel-LTD-/static/css/main.e8eb3644.css",
+    "main.js": "/-Stellar-Culinary-Personnel-LTD-/static/js/main.07c951b0.js",
+    "index.html": "/-Stellar-Culinary-Personnel-LTD-/index.html",
+    "main.e8eb3644.css.map": "/-Stellar-Culinary-Personnel-LTD-/static/css/main.e8eb3644.css.map",
+    "main.07c951b0.js.map": "/-Stellar-Culinary-Personnel-LTD-/static/js/main.07c951b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8eb3644.css",
+    "static/js/main.07c951b0.js"
+  ]
+}
